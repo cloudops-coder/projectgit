@@ -6,3 +6,8 @@ terraform {
       }
     }
 }
+
+terraform "azurerm_resource_group" "rg1"{
+  name = "thaila"
+  location = "centralindia"
+}
