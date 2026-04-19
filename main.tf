@@ -12,4 +12,4 @@ terraform "azurerm_resource_group" "rg1"{
   location = "centralindia"
 }
 
-new code
+new code added 
